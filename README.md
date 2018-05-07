@@ -1,2 +1,0 @@
-# svrakata.github.io
-myWebsite

@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.js": "/static/js/main.567ec198.chunk.js",
+    "main.js.map": "/static/js/main.567ec198.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.2928d148.js",
+    "runtime~main.js.map": "/static/js/runtime~main.2928d148.js.map",
+    "static/js/2.56b05a28.chunk.js": "/static/js/2.56b05a28.chunk.js",
+    "static/js/2.56b05a28.chunk.js.map": "/static/js/2.56b05a28.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.797c4c284318cc66df19a5129f91eb53.js": "/precache-manifest.797c4c284318cc66df19a5129f91eb53.js",
+    "service-worker.js": "/service-worker.js",
+    "static/media/company_logo.svg": "/static/media/company_logo.823d9f7b.svg",
+    "static/media/cpu.svg": "/static/media/cpu.470a8cae.svg",
+    "static/media/default_icon.svg": "/static/media/default_icon.21d662f2.svg",
+    "static/media/dynamo.png": "/static/media/dynamo.d700a644.png",
+    "static/media/individual_dynamo.svg": "/static/media/individual_dynamo.c3e29cbd.svg",
+    "static/media/law.svg": "/static/media/law.bcbc91e6.svg",
+    "static/media/organization_dynamo.svg": "/static/media/organization_dynamo.3a287d27.svg",
+    "static/media/purchase_order_quick_books.svg": "/static/media/purchase_order_quick_books.76c87378.svg",
+    "static/media/table_icon.svg": "/static/media/table_icon.b6da2b52.svg"
+  }
+}
